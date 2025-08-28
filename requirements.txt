@@ -1,0 +1,12 @@
+
+Data Analysis using Machine Learning
+
+Language - Python
+
+Libraries used:
+
+1. numpy
+2. scipy
+3. scikit-learn
+4. matplotlib
+5. pandas
